@@ -4,7 +4,7 @@ This repository contains my QA assessment solutions(section A and B questions) w
 
 1. LambdaTest Ecommerce Playground Website(Section A)
 
-2. Mancala Adventure Game(Section B)
+2. Mancala Adventure Game(Section B, no 7)
 
 
 ### Deliverables
@@ -21,7 +21,7 @@ This repository contains my QA assessment solutions(section A and B questions) w
 
 - Include preconditions, steps, expected results, and actual results.
 
-- Written for LambdaTest Ecommerce Playground website(Section A) and Mancala Adventure game(Section B).
+- Written for LambdaTest Ecommerce Playground website(Section A) and Mancala Adventure game(Section B, no 7).
 [ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
 
 
