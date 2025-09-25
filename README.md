@@ -21,8 +21,10 @@ This repository contains my QA assessment solutions(section A and B questions) w
 
 - Include preconditions, steps, expected results, and actual results.
 
-- Written for LambdaTest Ecommerce Playground website(Section A) and Mancala Adventure game(Section B, no 7).
-[ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
+- Written for LambdaTest Ecommerce Playground website(Section A) [ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing).
+  
+- Written for Mancala Adventure game(Section B, no 7) [ View Test Cases](https://docs.google.com/spreadsheets/d/1QCi16pMLkecSXEfjFs5GQKNZ6tmQUBGoCWezbtlHasE/edit?usp=sharing).
+
 
 
 **3. Bug Reports**
@@ -48,8 +50,9 @@ Each report contains:
 **4.Section B**
 
 - Contains answers to all the questions asked. [ View answers](https://docs.google.com/document/d/1brjfLu87T5aVZ6aGnXJW0f18oz_fA6LEJcAaEg7gmwA/edit?usp=sharing)
-- An attached link to the test case of number 7 question - Mancala Adventure game(Section B).
-[ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
+  
+- An attached link to the test case of number 7 question - Mancala Adventure game (Section B).
+[ View Test Cases](https://docs.google.com/spreadsheets/d/1QCi16pMLkecSXEfjFs5GQKNZ6tmQUBGoCWezbtlHasE/edit?usp=sharing).
 
 
 ### How to Use:
@@ -59,6 +62,7 @@ Each report contains:
 2. Review Test Plan, Test Cases, and Bug Reports accordingly.
 
 **Thank you for your time!**
+
 
 ### 👩🏽‍💻 Author
 
