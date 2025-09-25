@@ -13,7 +13,7 @@ This repository contains my QA assessment, which includes Bug Reports, Test Plan
 
 - Covers the scope, objectives, approach, and success criteria(LambdaTest website).
 - The detailed test plan for the **LambdaTest Ecommerce Playground website** can be found here:  
-[📄 View Test Plan](https://docs.google.com/document/d/11xPnubBRnolA66RZN4muwYtKZLW28P2KVbpjP7FVCTI/edit?usp=sharing)
+[ View Test Plan](https://docs.google.com/document/d/11xPnubBRnolA66RZN4muwYtKZLW28P2KVbpjP7FVCTI/edit?usp=sharing)
 
 **2. Test Cases**
 
@@ -45,7 +45,7 @@ Each report contains:
 
 - Severity & Priority
 
-- Written for [ LambdaTest website](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?gid=1520645012#gid=1520645012)
+- Written for LambdaTest website [ View bug report](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?gid=1520645012#gid=1520645012)
 
 
 ### How to Use:
@@ -58,4 +58,5 @@ Each report contains:
 ### 👩🏽‍💻 Author
 
 **Motunrayo Joseph**
+
 QA Engineer
