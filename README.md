@@ -1,6 +1,6 @@
 ### Technical Assessment
 
-This repository contains my QA assessment, section A and B questions which includes section B answers, Bug Reports, Test Plans, and Test Cases for the following:
+This repository contains my QA assessment solutions, section A and B questions which includes section B answers, Bug Reports, Test Plans, and Test Cases for the following:
 
 1. LambdaTest Ecommerce Playground Website(Section A)
 
