@@ -57,7 +57,7 @@ Each report contains:
 
 ### How to Use:
 
-1. Navigate into the respective folder to view the QA documents.
+1. Click the link to desired file to view the QA documentation.
 
 2. Review Test Plan, Test Cases, and Bug Reports accordingly.
 
