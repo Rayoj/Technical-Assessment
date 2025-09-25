@@ -27,8 +27,6 @@ This repository contains my QA assessment, which includes Bug Reports, Test Plan
 
 **3. Bug Reports**
 
-- Discovered issues during testing sessions.
-
 Each report contains:
 
 - Issue ID
