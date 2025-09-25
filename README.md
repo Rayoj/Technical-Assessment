@@ -43,11 +43,11 @@ Each report contains:
 
 - Severity & Priority
 
-- Written for LambdaTest website [ View bug report](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?gid=1520645012#gid=1520645012)
+- Written for LambdaTest website [ View bug report](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
 
 **4.Section B**
 
-- Contains answers to all the questions asked.
+- Contains answers to all the questions asked. [ View answers](https://docs.google.com/document/d/1brjfLu87T5aVZ6aGnXJW0f18oz_fA6LEJcAaEg7gmwA/edit?usp=sharing)
 - An attached link to the test case of number 7 question - Mancala Adventure game(Section B).
 [ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
 
