@@ -17,11 +17,11 @@ This repository contains my QA assessment, which includes Bug Reports, Test Plan
 
 **2. Test Cases**
 
-Designed based on the test plan and assessment requirements.
+- Designed based on the test plan and assessment requirements.
 
-Include preconditions, steps, expected results, and actual results.
+- Include preconditions, steps, expected results, and actual results.
 
-Written for LambdaTest Ecommerce Playground website and Mancala Adventure game.
+- Written for LambdaTest Ecommerce Playground website and Mancala Adventure game.
 [ View Test Cases](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
 
 
