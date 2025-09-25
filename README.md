@@ -43,7 +43,7 @@ Each report contains:
 
 - Severity & Priority
 
-- Written for LambdaTest website [ View bug report](https://docs.google.com/spreadsheets/d/1aQwVCEM0G8sWu4HzjmGbwMEmhuho7oed2VjZgtdoGFk/edit?usp=sharing)
+- Written for LambdaTest website [ View bug report](https://docs.google.com/spreadsheets/d/1viCB7Kh7BPXb-AKdYApQoZbt6aJJn5IDrh3PlYJBLqA/edit?usp=sharing)
 
 **4.Section B**
 
