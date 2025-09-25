@@ -52,6 +52,7 @@ Each report contains:
 
 2. Review Test Plan, Test Cases, and Bug Reports accordingly.
 
+**Thank you for your time!**
 
 ### 👩🏽‍💻 Author
 
